@@ -113,6 +113,7 @@ CREATE TABLE library.loans (
 
 </details>
 
+❗️ Run [create_the-tiny-library.py] (assignment/create_the-tiny-library.py) to create the database file.
 
 ### **Solution 2: The Marketing Dump**
 
@@ -154,3 +155,5 @@ WHERE contains(contact_info, '@');
 ```
 
 </details>
+
+❗️ Run [create_the-marketing-dump.py] (assignment/create_the-marketing-dump.py) to create the database file.
